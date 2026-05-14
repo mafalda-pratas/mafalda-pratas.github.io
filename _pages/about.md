@@ -12,4 +12,4 @@ I am currently a member of the ERC project [GLOBAL](https://europeangovernancean
 
 I received my PhD in Political Science from the Department of Government at Harvard University in 2024, where I was also affiliated with the [Institute for Quantitative Social Science](https://www.iq.harvard.edu/) and the [Minda de Gunzburg Center for European Studies](https://ces.fas.harvard.edu/).
 
-You can find my published and ongoing work on the [Publications](/publications/) page, and my CV [here](/cv/). Feel free to get in touch by email.
+You can find my published and ongoing work on the [Publications](/publications/) page, and my CV [here](/cv/). Feel free to get in touch by email!
