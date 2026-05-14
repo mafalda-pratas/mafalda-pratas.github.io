@@ -5,32 +5,26 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+## Journal Articles
 
-{% include base_path %}
+- "Inequalities in place-based representation: Looking inside electoral districts." in *European Journal of Political Research*, 64, 1165–1188 (2025), with J.Fernandes and M.Won [[link]](https://doi.org/10.1111/1475-6765.12735)
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+## Other Publications
 
+- "Political Parties and Party System." In J. M. Fernandes, P. C. Magalhães, & A. Costa Pinto (Eds.), *The Oxford Handbook of Portuguese Politics*. Oxford University Press, with F.Bizzarro [[link]](https://doi.org/10.1093/oxfordhb/9780192855404.013.23)
 
+## Work in Progress
 
+- "Elite Polarization and the Erosion of Electoral Accountability." *Under review.*
+
+- "Moderates, Ideologues, and the Dilemmas of Accountability." *Revise and resubmit.*
+
+- "Mainstream Party Credibility and Radical Right Accommodation" with Jorge Fernandes and Cristopher Wratil 
+
+- "Distributive Equality, Relational Equality, and the Vote: Global Evidence" with Pedro Magalhães
+
+- "The Substantive Cues of Candidates' Class: Evidence from Brazil" with Alon Yakter, Jorge Fernandes, and Joaquim Meira
+
+- "Cleavages Without Borders: Transnational Cleavages in 12 Large Polities around the World" with Daniele Caramani
+
+- "Linking Groups, Identities and Political Action across World Regions: An Experimental Analysis of Global Cleavages in 12 Large Polities around the World." with Daniele Caramani
