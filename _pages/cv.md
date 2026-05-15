@@ -31,7 +31,7 @@ Articles & Other Publications
 
 - "Inequalities in place-based representation: Looking inside electoral districts." in *European Journal of Political Research*, 64, 1165–1188 (2025), with J. Fernandes and M. Won. [[link]](https://doi.org/10.1111/1475-6765.12735)
 
-- "Political Parties and Party System." In J. M. Fernandes, P. C. Magalhães, & A. Costa Pinto (Eds.), *The Oxford Handbook of Portuguese Politics*. Oxford University Press, with F. Bizzarro. [[link]](https://doi.org/10.1093/oxfordhb/9780192855404.013.23)
+- "Political Parties and Party System." In J. M. Fernandes, P. C. Magalhães, & A. Costa Pinto (Eds.), *The Oxford Handbook of Portuguese Politics* (2022). Oxford University Press, with F. Bizzarro. [[link]](https://doi.org/10.1093/oxfordhb/9780192855404.013.23)
 
 Work in Progress
 ======
