@@ -11,35 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Political Science, Harvard University, 2024
+* M.A. in Political Science, Harvard University, 2019
+* B.A. Economics and Political Science, University of Illinois at Urbana-Champaign, 2016
 
-Work experience
+Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Posdoctoral Research Fellow, 2024 - present
+  * European University Institute
+  * ERC GLOBAL project
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Teaching Fellow, 2018-2021
+  * Harvard University, Department of Government
+  * Courses: Foundations of Comparative Politics, International Political Economy, Data Analysis and Politics, Democracy: Breakthroughs and Breakdowns
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
