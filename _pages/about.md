@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Research Fellow at the European University Institute working on comparative politics, political economy, and democratic politics. My research focuses on political behavior, elections, and representation.
+I am a Postdoctoral Research Fellow at the European University Institute working on comparative politics, political economy, and democracy. My research focuses on political behavior, elections, and representation.
 
 I am currently a member of the ERC project [GLOBAL](https://europeangovernanceandpolitics.eui.eu/global/), which studies global cleavages and the shape of political conflict across different world regions (PI: Daniele Caramani). GLOBAL is hosted within the [Robert Schuman Centre for Advanced Studies](https://www.eui.eu/en/academic-units/robert-schuman-centre-for-advanced-studies). 
 
