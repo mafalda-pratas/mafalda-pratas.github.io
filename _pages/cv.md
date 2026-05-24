@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -75,6 +75,14 @@ Professional Service
 Additional Training
 ======
 - Advanced Surveys and Survey Experiments (Essex Summer School in Data Analysis, 2023)
+
+
+Conference Participations
+======
+- American Political Science Association: 2022, 2026
+- European Political Science Association: 2025
+- Midwest Political Science Association: 2022
+- ECPR Standing Group on Parliaments: 2022, 2023
 
 
 References
