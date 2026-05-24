@@ -15,7 +15,7 @@ Education
 * M.A. in Political Science, Harvard University, 2019
 * B.A. Economics and Political Science, University of Illinois at Urbana-Champaign, 2016
 
-Experience
+Professional Appointments
 ======
 * Posdoctoral Research Fellow, 2024 - present
   * European University Institute
@@ -24,7 +24,6 @@ Experience
 
 * Teaching Fellow, 2018-2021
   * Harvard University, Department of Government
-  * Courses: Foundations of Comparative Politics; International Political Economy; Data Analysis and Politics; Democracy: Breakthroughs and Breakdowns
 
 Articles & Other Publications
 ======
@@ -46,7 +45,47 @@ Work in Progress
 
 - "The Substantive Cues of Candidates' Class: Evidence from Brazil," with Alon Yakter, Jorge Fernandes, and Joaquim Meira.
 
-- "Cleavages Without Borders: Transnational Cleavages in 12 Large Polities around the World," with Daniele Caramani.
+- "Cleavages Without Borders: Transnational Cleavages in 12 Large Polities around the world," with Daniele Caramani.
 
-- "Linking Groups, Identities and Political Action across World Regions: An Experimental Analysis of Global Cleavages in 12 Large Polities around the World," with Daniele Caramani.
+- "Linking Groups, Identities and Political Action across World Regions: An Experimental Analysis of Global Cleavages in 12 Large Polities around the world," with Daniele Caramani.
+
+
+Teaching Experience
+======
+- Foundations of Comparative Politics (Prof. Steve Levitsky, Fall 2018)
+- Democracy: Breakthroughs and Breakdowns (Prof. Daniel Ziblatt, Spring 2021)
+- International Political Economy (Prof. Jeffry Frieden, Spring 2019, Fall 2019)
+- Data Analysis and Politics (Prof. Matthew Blackwell, Fall 2020)
+
+
+Grants, Fellowships and Awards
+======
+- Max Weber Fellowship (declined)
+- GSAS Dissertation Completion Fellowship 
+- Krupp Foundation Dissertation Research Fellowship
+- Institute for Quantitative Social Science Graduate Research Grant
+
+
+Professional Service
+======
+- Graduate coordinator, Comparative Politics Speaker Series, Department of Government, Harvard University
+- Peer-reviewer for: _Journal of Politics_, _Party Politics_
+
+
+Additional Training
+======
+Advanced Surveys and Survey Experiments (Essex Summer School in Data Analysis, 2023)
+
+
+References
+======
+- Prof. Torben Iversen (Harvard University)
+- Prof. Jeffry Frieden (Columbia University)
+- Prof. Daniel Ziblatt (Harvard University)
+- Prof. Simon Hix (European University Institute)
+
+
+
+
+
 
