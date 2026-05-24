@@ -60,10 +60,10 @@ Teaching Experience
 
 Grants, Fellowships and Awards
 ======
-- Max Weber Fellowship (declined)
-- GSAS Dissertation Completion Fellowship 
-- Krupp Foundation Dissertation Research Fellowship
-- Institute for Quantitative Social Science Graduate Research Grant
+- Max Weber Fellowship (2024, declined)
+- GSAS Dissertation Completion Fellowship (2023)
+- Krupp Foundation Dissertation Research Fellowship (2021)
+- Institute for Quantitative Social Science Graduate Research Grant (2021)
 
 
 Professional Service
@@ -74,7 +74,7 @@ Professional Service
 
 Additional Training
 ======
-Advanced Surveys and Survey Experiments (Essex Summer School in Data Analysis, 2023)
+- Advanced Surveys and Survey Experiments (Essex Summer School in Data Analysis, 2023)
 
 
 References
