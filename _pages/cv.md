@@ -27,6 +27,7 @@ Professional Appointments
 
 Articles & Other Publications
 ======
+- "Moderates, ideologues, and electoral accountability: Evidence from three democracies." in *Electoral Studies*, 105, 103184 (2027). [[link]](https://doi.org/10.1016/j.electstud.2026.103184)
 
 - "Inequalities in place-based representation: Looking inside electoral districts." in *European Journal of Political Research*, 64, 1165–1188 (2025), with J. Fernandes and M. Won. [[link]](https://doi.org/10.1111/1475-6765.12735)
 
@@ -36,8 +37,6 @@ Work in Progress
 ======
 
 - "Elite Polarization and the Erosion of Electoral Accountability." *Under review.*
-
-- "Moderates, Ideologues, and the Dilemmas of Accountability." *Revise and resubmit.*
 
 - "Mainstream Party Credibility and Radical Right Accommodation," with Jorge Fernandes and Christopher Wratil.
 
@@ -83,15 +82,7 @@ Conference Participations
 - European Political Science Association: 2025
 - Midwest Political Science Association: 2022
 - ECPR Standing Group on Parliaments: 2022, 2023
-
-
-References
-======
-- Prof. Torben Iversen (Harvard University)
-- Prof. Jeffry Frieden (Columbia University)
-- Prof. Daniel Ziblatt (Harvard University)
-- Prof. Simon Hix (European University Institute)
-
+- EGPP Annual Conference: 2026
 
 
 
