@@ -7,7 +7,9 @@ author_profile: true
 
 ## Journal Articles
 
-- "Inequalities in place-based representation: Looking inside electoral districts." in *European Journal of Political Research*, 64, 1165–1188 (2025), with J. Fernandes and M. Won. [[link]](https://doi.org/10.1111/1475-6765.12735)
+- "Moderates, ideologues, and electoral accountability: Evidence from three democracies" in *Electoral Studies*, 105, 103184 (2027). [[link]](https://doi.org/10.1016/j.electstud.2026.103184)
+  
+- "Inequalities in place-based representation: Looking inside electoral districts" in *European Journal of Political Research*, 64, 1165–1188 (2025), with J. Fernandes and M. Won. [[link]](https://doi.org/10.1111/1475-6765.12735)
 
 ## Other Publications
 
@@ -16,8 +18,6 @@ author_profile: true
 ## Work in Progress
 
 - "Elite Polarization and the Erosion of Electoral Accountability." *Under review.*
-
-- "Moderates, Ideologues, and the Dilemmas of Accountability." *Revise and resubmit.*
 
 - "Mainstream Party Credibility and Radical Right Accommodation," with Jorge Fernandes and Christopher Wratil.
 
